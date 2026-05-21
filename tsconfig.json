@@ -1,0 +1,7 @@
+{
+  "extends": "expo/tsconfig.base",
+  "exclude": ["lib/engine.bak.*"],
+  "compilerOptions": {
+    "strict": true
+  }
+}
